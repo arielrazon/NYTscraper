@@ -14,6 +14,10 @@
 
 [Click Here for Live Demo](https://serene-river-03594.herokuapp.com)
 
+Click image below for demo video:
+
+[![NYT Web Scraper Youtube Link](http://img.youtube.com/vi/wf3TAoC4t1c/0.jpg)](http://www.youtube.com/watch?v=wf3TAoC4t1c "NYT Web Scraper")
+
 ----
 ## Changelog
 * 19-Oct-2019 Initial project files created, NPM dependencies added.
